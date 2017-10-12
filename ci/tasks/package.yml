@@ -13,5 +13,6 @@ inputs:
 outputs:
 - name: package-output
 
+
 run:
   path: attendee-service-source/ci/tasks/package.sh

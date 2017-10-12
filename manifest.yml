@@ -8,3 +8,4 @@ applications:
   path: target/attendee-service-0.0.1-SNAPSHOT.jar
   services:
     - attendee-mysql
+
