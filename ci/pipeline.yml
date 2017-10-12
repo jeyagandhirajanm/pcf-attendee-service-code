@@ -39,6 +39,7 @@ jobs:
       path: package-output/attendee-service.jar
 
 
+
 - name: smoke_test
   public: true
   plan:
