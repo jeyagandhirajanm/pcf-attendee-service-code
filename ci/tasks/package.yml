@@ -14,5 +14,4 @@ outputs:
 - name: package-output
 
 run:
-  path: attendee-service/ci/tasks/package.sh
-
+  path: pcf-attendee-service-code/ci/tasks/package.sh
